@@ -45,7 +45,7 @@
  ![](images/air.png)
 🚀 **Interface Using shiny:**
 _Shiny is an R package that makes it easy to build interactive web apps straight from R.it is used for showing the insight of the data and prediction._
-### Collaborators <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+### Developer <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
